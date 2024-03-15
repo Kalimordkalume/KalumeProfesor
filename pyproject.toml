@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Kalume <abrahammoracejas@gmail.com>"]
 readme = "README.md"
-packages = [{ include = 'kalumeprofesor' }, { include = 'manage.py' }]
+packages = [{ include = 'kalumeprofesor/' }, { include = 'manage.py' }]
 
 
 [tool.poetry.dependencies]
