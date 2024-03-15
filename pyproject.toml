@@ -5,6 +5,7 @@ description = ""
 authors = ["Kalume <abrahammoracejas@gmail.com>"]
 readme = "README.md"
 
+
 [tool.poetry.dependencies]
 python = "^3.12"
 Django = "^5.0.3"
@@ -14,8 +15,7 @@ Django = "^5.0.3"
 ruff = "^0.3.2"
 djangorestframework = "^3.14.0"
 django-debug-toolbar = "^4.3.0"
-pytest = "^8.1.1"
-django-pytest = "^0.2.0"
+
 
 [build-system]
 requires = ["poetry-core"]
