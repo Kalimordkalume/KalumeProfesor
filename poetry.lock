@@ -61,16 +61,6 @@ django = ">=3.2.4"
 sqlparse = ">=0.2"
 
 [[package]]
-name = "django-pytest"
-version = "0.2.0"
-description = "django test runner to use py.test tests"
-optional = false
-python-versions = "*"
-files = [
-    {file = "django-pytest-0.2.0.tar.gz", hash = "sha256:de21f20f9e7eb941529d75078b18192506a9f6d4ae80f86fbe2f3bcac8e09d71"},
-]
-
-[[package]]
 name = "djangorestframework"
 version = "3.14.0"
 description = "Web APIs for Django, made easy."
@@ -209,4 +199,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "ac842c1ce2815d19b3c096b51ed9b1c90eff2a99c23a48187ef10828201e9e81"
+content-hash = "5d09c93a30f059cc0cf4d06812870dddf376afc6413ff2cd0d8f33fcab34160e"
